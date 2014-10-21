@@ -1,0 +1,150 @@
+Cmp-Mod V01 Created by Cvpcb (2014-09-19 BZR 5142)-product   date = 21/10/2014 13:53:38
+
+BeginCmp
+TimeStamp = /53FA6469;
+Reference = C1;
+ValeurCmp = 470 p;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA660D;
+Reference = C2;
+ValeurCmp = 1000 p;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA667B;
+Reference = C3;
+ValeurCmp = 2200 p;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA668D;
+Reference = C4;
+ValeurCmp = 4700 p;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA6749;
+Reference = C5;
+ValeurCmp = 10n;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA675B;
+Reference = C6;
+ValeurCmp = 22n;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA676D;
+Reference = C7;
+ValeurCmp = 47n;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA677F;
+Reference = C8;
+ValeurCmp = 0.1u;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA718A;
+Reference = C9;
+ValeurCmp = 0.2u;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FAA779;
+Reference = P1;
+ValeurCmp = CONN_01X01;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FAA7E8;
+Reference = P2;
+ValeurCmp = CONN_01X01;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA65A0;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA6613;
+Reference = R2;
+ValeurCmp = 1M;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA6681;
+Reference = R3;
+ValeurCmp = 1M;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA6693;
+Reference = R4;
+ValeurCmp = 1M;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA674F;
+Reference = R5;
+ValeurCmp = 1M;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA6761;
+Reference = R6;
+ValeurCmp = 1M;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA6773;
+Reference = R7;
+ValeurCmp = 1M;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA6785;
+Reference = R8;
+ValeurCmp = 1M;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA7190;
+Reference = R9;
+ValeurCmp = 1M;
+IdModule  = libcms:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FAB2C8;
+Reference = SW1;
+ValeurCmp = LORLIN_1X12;
+IdModule  = ;
+EndCmp
+
+EndListe
