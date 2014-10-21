@@ -1,98 +1,91 @@
-Cmp-Mod V01 Created by Cvpcb (2014-09-19 BZR 5142)-product   date = 21/10/2014 15:00:48
+Cmp-Mod V01 Created by Cvpcb (2014-09-19 BZR 5142)-product   date = 21/10/2014 19:13:56
 
 BeginCmp
-TimeStamp = /53FA6469;
+TimeStamp = /53FA676D;
 Reference = C1;
-ValeurCmp = 470 p;
+ValeurCmp = 47n;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA660D;
+TimeStamp = /53FA675B;
 Reference = C2;
-ValeurCmp = 1000 p;
+ValeurCmp = 22n;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA667B;
+TimeStamp = /53FA6749;
 Reference = C3;
-ValeurCmp = 2200 p;
+ValeurCmp = 10n;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FA668D;
 Reference = C4;
-ValeurCmp = 4700 p;
+ValeurCmp = 4700p;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA6749;
+TimeStamp = /53FA667B;
 Reference = C5;
-ValeurCmp = 10n;
+ValeurCmp = 2200p;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA675B;
+TimeStamp = /53FA660D;
 Reference = C6;
-ValeurCmp = 22n;
-IdModule  = libcms:SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FA676D;
-Reference = C7;
-ValeurCmp = 47n;
+ValeurCmp = 1000p;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FA677F;
-Reference = C8;
+Reference = C7;
 ValeurCmp = 0.1u;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA718A;
-Reference = C9;
-ValeurCmp = 0.2u;
-IdModule  = libcms:SM0805;
+TimeStamp = /5446A0B0;
+Reference = P1;
+ValeurCmp = Classic;
+IdModule  = Connect:SIL-1;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FAA779;
-Reference = P1;
-ValeurCmp = CONN_01X01;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
+Reference = P2;
+ValeurCmp = Boost;
+IdModule  = Connect:SIL-1;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FAA7E8;
-Reference = P2;
-ValeurCmp = CONN_01X01;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
+Reference = P3;
+ValeurCmp = Gnd;
+IdModule  = Connect:SIL-1;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA65A0;
+TimeStamp = /53FA6773;
 Reference = R1;
 ValeurCmp = 1M;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA6613;
+TimeStamp = /53FA6761;
 Reference = R2;
 ValeurCmp = 1M;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA6681;
+TimeStamp = /53FA674F;
 Reference = R3;
 ValeurCmp = 1M;
 IdModule  = libcms:SM0805;
@@ -106,45 +99,59 @@ IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA674F;
+TimeStamp = /53FA6681;
 Reference = R5;
 ValeurCmp = 1M;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA6761;
+TimeStamp = /53FA6613;
 Reference = R6;
 ValeurCmp = 1M;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA6773;
+TimeStamp = /54469D5D;
 Reference = R7;
-ValeurCmp = 1M;
+ValeurCmp = 10K;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FA6785;
+TimeStamp = /54469D28;
 Reference = R8;
-ValeurCmp = 1M;
+ValeurCmp = 22K;
+IdModule  = libcms:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54469CEA;
+Reference = R9;
+ValeurCmp = 47K;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FA7190;
-Reference = R9;
-ValeurCmp = 1M;
+Reference = R10;
+ValeurCmp = 100K;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FAB2C8;
+TimeStamp = /5446C7EF;
+Reference = R11;
+ValeurCmp = 220K;
+IdModule  = libcms:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5446FDFF;
 Reference = SW1;
-ValeurCmp = LORLIN_1X12;
-IdModule  = Custom:Lorlin_CK_1p12t;
+ValeurCmp = LORLIN_2X6;
+IdModule  = Custom:Lorlin_CK_2p6t;
 EndCmp
 
 EndListe
