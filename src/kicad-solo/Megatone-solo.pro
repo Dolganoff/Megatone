@@ -1,4 +1,4 @@
-update=27/08/2014 01:12:45
+update=21/10/2014 13:22:23
 version=1
 last_client=kicad
 [cvpcb]
@@ -29,13 +29,9 @@ ModuleOutlineThickness=0.150000000000
 version=1
 [eeschema]
 version=1
-PageLayoutDescrFile=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
+LibDir=D:/Work/electronics/Kicad
+[eeschema/libraries]
+LibName1=USER
+LibName2=conn
+LibName3=device
+LibName4=linear
