@@ -31,7 +31,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:Megatone-duo-cache
-EELAYER 24 0
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -40,8 +40,8 @@ Title "Megatone Duo"
 Date "21 October 2014"
 Rev "v6"
 Comp ""
-Comment1 ""
-Comment2 ""
+Comment1 "Open Hardware, Licensed under CERN OHL v1.2"
+Comment2 "http://www.dolganoff.com/fr/a-propos"
 Comment3 ""
 Comment4 ""
 $EndDescr

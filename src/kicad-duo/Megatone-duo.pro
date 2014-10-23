@@ -1,4 +1,4 @@
-update=21/10/2014 17:44:30
+update=23/10/2014 11:33:12
 version=1
 last_client=kicad
 [cvpcb]
@@ -25,9 +25,11 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=D:/Work/electronics/Kicad
+LibDir=C:/Users/adolganov/work/electronics/Kicad_Shared
 [eeschema/libraries]
 LibName1=USER
 LibName2=power
@@ -60,5 +62,3 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
-[general]
-version=1
