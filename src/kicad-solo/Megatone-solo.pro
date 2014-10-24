@@ -1,4 +1,4 @@
-update=23/10/2014 12:06:04
+update=24/10/2014 13:50:26
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,14 +6,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[eeschema]
-version=1
-LibDir=D:/Work/electronics/Kicad
-[eeschema/libraries]
-LibName1=USER
-LibName2=conn
-LibName3=device
-LibName4=linear
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -36,3 +28,11 @@ BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
 [general]
 version=1
+[eeschema]
+version=1
+LibDir=../../../Kicad
+[eeschema/libraries]
+LibName1=USER
+LibName2=conn
+LibName3=device
+LibName4=linear
