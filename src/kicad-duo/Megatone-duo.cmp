@@ -1,44 +1,44 @@
-Cmp-Mod V01 Created by Cvpcb (2014-09-19 BZR 5142)-product   date = 21/10/2014 19:13:56
+Cmp-Mod V01 Created by Cvpcb (2014-10-18 BZR 5203)-product   date = 03/11/2014 16:02:57
 
 BeginCmp
 TimeStamp = /53FA676D;
 Reference = C1;
-ValeurCmp = 47n;
+ValeurCmp = 1n;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FA675B;
 Reference = C2;
-ValeurCmp = 22n;
+ValeurCmp = 2.2n;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FA6749;
 Reference = C3;
-ValeurCmp = 10n;
+ValeurCmp = 4.7n;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FA668D;
 Reference = C4;
-ValeurCmp = 4700p;
+ValeurCmp = 10n;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FA667B;
 Reference = C5;
-ValeurCmp = 2200p;
+ValeurCmp = 22n;
 IdModule  = libcms:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FA660D;
 Reference = C6;
-ValeurCmp = 1000p;
+ValeurCmp = 47n;
 IdModule  = libcms:SM0805;
 EndCmp
 
