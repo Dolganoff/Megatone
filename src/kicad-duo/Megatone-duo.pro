@@ -1,4 +1,4 @@
-update=23/10/2014 11:33:12
+update=03/11/2014 16:55:18
 version=1
 last_client=kicad
 [cvpcb]
@@ -29,7 +29,7 @@ ModuleOutlineThickness=0.150000000000
 version=1
 [eeschema]
 version=1
-LibDir=C:/Users/adolganov/work/electronics/Kicad_Shared
+LibDir=../../../Kicad
 [eeschema/libraries]
 LibName1=USER
 LibName2=power

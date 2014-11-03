@@ -4,17 +4,17 @@ LIBS:conn
 LIBS:device
 LIBS:linear
 LIBS:Megatone-solo-cache
-EELAYER 24 0
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Megatone Solo"
 Date ""
-Rev ""
+Rev "v5"
 Comp ""
-Comment1 ""
-Comment2 ""
+Comment1 "Open Hardware, licensed under CERN OHL v1.2"
+Comment2 "http://www.dolganoff.com/fr/a-propos"
 Comment3 ""
 Comment4 ""
 $EndDescr
