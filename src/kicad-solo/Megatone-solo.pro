@@ -1,4 +1,4 @@
-update=24/10/2014 13:50:26
+update=01/01/2015 14:20:30
 version=1
 last_client=kicad
 [cvpcb]
@@ -26,8 +26,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../../Kicad
@@ -36,3 +34,5 @@ LibName1=USER
 LibName2=conn
 LibName3=device
 LibName4=linear
+[general]
+version=1
