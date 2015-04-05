@@ -1,5 +1,5 @@
 M48
-;DRILL file {kicad (2014-12-07 BZR 5316)-product} date 01/01/2015 14:06:49
+;DRILL file {kicad (2014-12-07 BZR 5316)-product} date 05/04/2015 11:00:30
 ;FORMAT={-:-/ absolute / inch / decimal}
 FMAT,2
 INCH,TZ
@@ -11,11 +11,11 @@ G90
 G05
 M72
 T1
-X7.09Y-3.18
+X6.885Y-2.96
 T2
-X6.6Y-2.78
-X6.9Y-2.68
-X7.2Y-2.78
+X6.385Y-3.2
+X6.46Y-2.945
+X6.46Y-3.455
 T3
 X6.4779Y-3.0869
 X6.4779Y-3.3131
